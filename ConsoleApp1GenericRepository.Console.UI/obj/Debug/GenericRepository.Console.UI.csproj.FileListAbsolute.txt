@@ -1,0 +1,17 @@
+C:\Users\Ruhim\Downloads\Project\GenericRepository\ConsoleApp1GenericRepository.Console.UI\bin\Debug\ConsoleApp1GenericRepository.Console.UI.exe.config
+C:\Users\Ruhim\Downloads\Project\GenericRepository\ConsoleApp1GenericRepository.Console.UI\bin\Debug\ConsoleApp1GenericRepository.Console.UI.exe
+C:\Users\Ruhim\Downloads\Project\GenericRepository\ConsoleApp1GenericRepository.Console.UI\bin\Debug\ConsoleApp1GenericRepository.Console.UI.pdb
+C:\Users\Ruhim\Downloads\Project\GenericRepository\ConsoleApp1GenericRepository.Console.UI\bin\Debug\EntityFramework.dll
+C:\Users\Ruhim\Downloads\Project\GenericRepository\ConsoleApp1GenericRepository.Console.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ruhim\Downloads\Project\GenericRepository\ConsoleApp1GenericRepository.Console.UI\bin\Debug\GenericRepository.DAL.dll
+C:\Users\Ruhim\Downloads\Project\GenericRepository\ConsoleApp1GenericRepository.Console.UI\bin\Debug\GenericRepository.Domain.dll
+C:\Users\Ruhim\Downloads\Project\GenericRepository\ConsoleApp1GenericRepository.Console.UI\bin\Debug\GenericRepository.DAL.pdb
+C:\Users\Ruhim\Downloads\Project\GenericRepository\ConsoleApp1GenericRepository.Console.UI\bin\Debug\GenericRepository.DAL.dll.config
+C:\Users\Ruhim\Downloads\Project\GenericRepository\ConsoleApp1GenericRepository.Console.UI\bin\Debug\GenericRepository.Domain.pdb
+C:\Users\Ruhim\Downloads\Project\GenericRepository\ConsoleApp1GenericRepository.Console.UI\bin\Debug\EntityFramework.xml
+C:\Users\Ruhim\Downloads\Project\GenericRepository\ConsoleApp1GenericRepository.Console.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ruhim\Downloads\Project\GenericRepository\ConsoleApp1GenericRepository.Console.UI\obj\Debug\GenericRepository.Console.UI.csprojAssemblyReference.cache
+C:\Users\Ruhim\Downloads\Project\GenericRepository\ConsoleApp1GenericRepository.Console.UI\obj\Debug\GenericRepository.Console.UI.csproj.CoreCompileInputs.cache
+C:\Users\Ruhim\Downloads\Project\GenericRepository\ConsoleApp1GenericRepository.Console.UI\obj\Debug\GenericRepository.Console.UI.csproj.CopyComplete
+C:\Users\Ruhim\Downloads\Project\GenericRepository\ConsoleApp1GenericRepository.Console.UI\obj\Debug\ConsoleApp1GenericRepository.Console.UI.exe
+C:\Users\Ruhim\Downloads\Project\GenericRepository\ConsoleApp1GenericRepository.Console.UI\obj\Debug\ConsoleApp1GenericRepository.Console.UI.pdb

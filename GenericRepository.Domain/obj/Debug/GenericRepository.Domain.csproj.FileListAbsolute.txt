@@ -1,0 +1,5 @@
+C:\Users\Ruhim\Downloads\Project\GenericRepository\GenericRepository.Domain\bin\Debug\GenericRepository.Domain.dll
+C:\Users\Ruhim\Downloads\Project\GenericRepository\GenericRepository.Domain\bin\Debug\GenericRepository.Domain.pdb
+C:\Users\Ruhim\Downloads\Project\GenericRepository\GenericRepository.Domain\obj\Debug\GenericRepository.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ruhim\Downloads\Project\GenericRepository\GenericRepository.Domain\obj\Debug\GenericRepository.Domain.dll
+C:\Users\Ruhim\Downloads\Project\GenericRepository\GenericRepository.Domain\obj\Debug\GenericRepository.Domain.pdb

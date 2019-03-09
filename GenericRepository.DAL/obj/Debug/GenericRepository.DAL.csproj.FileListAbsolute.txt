@@ -1,0 +1,16 @@
+C:\Users\Ruhim\Downloads\Project\GenericRepository\GenericRepository.DAL\bin\Debug\GenericRepository.DAL.dll.config
+C:\Users\Ruhim\Downloads\Project\GenericRepository\GenericRepository.DAL\bin\Debug\GenericRepository.DAL.dll
+C:\Users\Ruhim\Downloads\Project\GenericRepository\GenericRepository.DAL\bin\Debug\GenericRepository.DAL.pdb
+C:\Users\Ruhim\Downloads\Project\GenericRepository\GenericRepository.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Ruhim\Downloads\Project\GenericRepository\GenericRepository.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ruhim\Downloads\Project\GenericRepository\GenericRepository.DAL\bin\Debug\GenericRepository.Domain.dll
+C:\Users\Ruhim\Downloads\Project\GenericRepository\GenericRepository.DAL\bin\Debug\GenericRepository.Domain.pdb
+C:\Users\Ruhim\Downloads\Project\GenericRepository\GenericRepository.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Ruhim\Downloads\Project\GenericRepository\GenericRepository.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ruhim\Downloads\Project\GenericRepository\GenericRepository.DAL\obj\Debug\GenericRepository.DAL.csprojAssemblyReference.cache
+C:\Users\Ruhim\Downloads\Project\GenericRepository\GenericRepository.DAL\obj\Debug\GenericRepository.DAL.Migrations.Init.resources
+C:\Users\Ruhim\Downloads\Project\GenericRepository\GenericRepository.DAL\obj\Debug\GenericRepository.DAL.csproj.GenerateResource.cache
+C:\Users\Ruhim\Downloads\Project\GenericRepository\GenericRepository.DAL\obj\Debug\GenericRepository.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ruhim\Downloads\Project\GenericRepository\GenericRepository.DAL\obj\Debug\GenericRepository.DAL.csproj.CopyComplete
+C:\Users\Ruhim\Downloads\Project\GenericRepository\GenericRepository.DAL\obj\Debug\GenericRepository.DAL.dll
+C:\Users\Ruhim\Downloads\Project\GenericRepository\GenericRepository.DAL\obj\Debug\GenericRepository.DAL.pdb
